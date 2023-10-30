@@ -1,3 +1,7 @@
+/*
+NOME: MARIANE OLIVEIRA DOS SANTOS
+*/
+
 #include <stdio.h>
 #include "livro.h"
 
