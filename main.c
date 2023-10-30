@@ -5,10 +5,10 @@ p_livro v[MAX];
 char encontrar_titulo[MAX];
 
 int main() {
-    int i = 0; //posicao a ser cadastrada
+    int i = 0;
     int opcao = 0;
     do {
-        int p = 0; // posicao de procura unica
+        int p = 0;
 
         printf("\n\tMenu Principal\n");
         printf("=========================================\n");
