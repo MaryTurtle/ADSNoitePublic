@@ -1,0 +1,3 @@
+C:/Users/Kelly/OneDrive - Fatec Centro Paula Souza/@FATEC/ADS - Noite/Maromo/Aulas/Aula 28.10 - Struct/Desafio/cmake-build-debug/CMakeFiles/Desafio.dir
+C:/Users/Kelly/OneDrive - Fatec Centro Paula Souza/@FATEC/ADS - Noite/Maromo/Aulas/Aula 28.10 - Struct/Desafio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kelly/OneDrive - Fatec Centro Paula Souza/@FATEC/ADS - Noite/Maromo/Aulas/Aula 28.10 - Struct/Desafio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
