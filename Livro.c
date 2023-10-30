@@ -1,6 +1,3 @@
-//FUNCAO
-//INCLUIR BIBLIOTECAS
-
 #include "Livro.h"
 #include <stdio.h>
 #include <stdlib.h>
